@@ -25,7 +25,7 @@ To ensure the search and filtering system is:
 - Search + filter applied together
 - Verify relevance and accuracy of filtered results
 
-## 🧪 Test Case Highlights
+## 🧪 Test Case Highlight
 
 | Area                  | Description |
 |-----------------------|-------------|

@@ -19,13 +19,13 @@ To ensure the search and filtering system is:
 ### ✅ Filter Functionality
 - Date picker/dropdown filters
 - Multiple filter combinations
-- Clear/Reset filter behavior
+- Clear/Reset filter behaviour
 
 ### ✅ Combined Scenarios
 - Search + filter applied together
-- Verify relevance and accuracy of filtered results
+- Verify the relevance and accuracy of filtered results
 
-## 🧪 Test Case Highlight
+## 🧪 Test Case Highlights
 
 | Area                  | Description |
 |-----------------------|-------------|

@@ -16,7 +16,7 @@ A collection of test cases for backend Java APIs tested using Postman.
 - ✅ Positive & Negative Case Handling
 - ✅ Security Check: SQL Injection
 
-## 🧰 Tools Used
+## 🧰 Tools Use
 
 - Postman
 - JSON Formatter
